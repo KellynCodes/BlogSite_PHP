@@ -1,0 +1,13 @@
+# BlOG WEBSITE
+ 
+ # KellynCodes
+ 
+This project is for lesson and practicie based.
+Although the project is awesome but it doesn't have much styling.
+HOW THE PROJECT WORKS: Just like the name implies it is a blog website that works this way...:
+1. It collects the data that is inserted in the forms at admin/index.php file.
+2. Sends the datas to the database and...
+3. Also insert the image the user inserted in the form at admin/index.php to the image folder "uploads". 
+4. It also have the admin side where the admin can view lists of blogs and can delete and manage which news is to be retained in the user sides.
+NOTE: the projects is still in process. I will like to add some orther featutures like the login side where only 
+registered user can have access to full blog page. 
